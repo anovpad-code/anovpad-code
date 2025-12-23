@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Anov&fontSize=70" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7E018&center=true&vCenter=true&width=500&lines=Hello+I'm+Anov;Python+Learner;ThinkPad+User" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40" />
 </p>
 
 <p align="center">
@@ -9,26 +13,14 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/termux-000000.svg?style=for-the-badge&logo=termux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
 ---
 
-### Statistik GitHub
+###  Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
 </p>
 
+###  Grafik Aktivitas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
-
----
-
-###  Proyek Saya
--  **[Belajar-Python-Dasar](https://github.com/anovpad-code/Belajar-Python-Dasar)** - Kumpulan latihan logika Python di Lenovo ThinkPad X280 dan Visual Studio Code 
--  **Debian-Termux** - Eksperimen Linux di perangkat Android.
