@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,13 +38,24 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🎮 Play Chess with Me!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
+  <a href="https://github.com/anovpad-code/anovpad-code/issues/new?body=e2-e4&title=Chess+Move">
+    <img src="https://chess-stats.vercel.app/api/chess?username=anovpad-code&theme=radical" alt="Chess Game" />
+  </a>
 </p>
+<p align="center"><i>Click on the board to start a game or make a move!</i></p>
 
+---
+
+###  My Coding Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
 </p>
 
 ---
