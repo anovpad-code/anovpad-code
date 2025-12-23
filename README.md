@@ -1,9 +1,9 @@
-  <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7E018&center=true&vCenter=true&width=700&lines=Hi,+I'm+Angelice+Novena+Octaviani;IT+Enthusiast+&+Python+Learner;ThinkPad+&+Samsung+User" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=150&section=header&text=Information%20Technology&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=150&section=header&text=Information%20Technology&fontSize=40&animation=fadeIn" />
 </p>
 
 ### 💻 Hardware & Operating Systems
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
 </p>
 
 <p align="left">
