@@ -30,5 +30,5 @@
 ---
 
 ###  Proyek Saya
--  **[Belajar-Python-Dasar](https://github.com/anovpad-code/Belajar-Python-Dasar)** - Kumpulan latihan logika Python di ThinkPad X280.
+-  **[Belajar-Python-Dasar](https://github.com/anovpad-code/Belajar-Python-Dasar)** - Kumpulan latihan logika Python di Lenovo ThinkPad X280 dan Visual Studio Code 
 -  **Debian-Termux** - Eksperimen Linux di perangkat Android.
