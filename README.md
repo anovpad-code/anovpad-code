@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7E018&center=true&vCenter=true&width=700&lines=Hi,+I'm+Angelice+Novena+Octaviani;IT+Enthusiast+&+Python+Learner;ThinkPad+&+Samsung+User" alt="Typing SVG" />
 </p>
 
@@ -38,24 +38,13 @@
 
 ---
 
-### 🎮 Play Chess with Me!
-<p align="center">
-  <a href="https://github.com/anovpad-code/anovpad-code/issues/new?body=e2-e4&title=Chess+Move">
-    <img src="https://chess-stats.vercel.app/api/chess?username=anovpad-code&theme=radical" alt="Chess Game" />
-  </a>
-</p>
-<p align="center"><i>Click on the board to start a game or make a move!</i></p>
-
----
-
-###  My Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
-</p>
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
