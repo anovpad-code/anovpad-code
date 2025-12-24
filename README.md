@@ -4,17 +4,6 @@
 
 <h1 align="center">✨ Information Technology ✨</h1>
 
-### 💻 Hardware & Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/ThinkPad-E0212E?style=for-the-badge&logo=lenovo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,15 +19,15 @@
 ### 📊 GitHub Stats & Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&cache_seconds=1800" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical&cache_seconds=1800" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0&cache_seconds=1800" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0" width="100%" />
 </p>
 
 <p align="center">
@@ -50,4 +39,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-
