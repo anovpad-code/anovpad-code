@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
@@ -36,24 +35,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
 
-
-
 ### 📊 GitHub Stats & Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&count_private=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical&border_radius=10" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0&langs_count=10&border_radius=10" width="100%" />
 </p>
 
 ---
@@ -62,15 +55,5 @@
   <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
- 
- 
 
 
-
-
- 
-
-
-
-
-  
