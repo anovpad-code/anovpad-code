@@ -52,6 +52,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
  
  
