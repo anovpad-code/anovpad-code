@@ -53,10 +53,6 @@
   <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
----
-
----
----
 
 ### 📊 Most Used Languages
 <p align="center">
