@@ -36,22 +36,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical" />
-</p>
 
----
+
+### 📊 GitHub Stats & Dashboard
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&count_private=true" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical" width="100%" />
+</p>
 
-
-
-
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_langs_threshold=0" width="100%" />
+</p>
 
 
  
