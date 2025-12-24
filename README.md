@@ -55,13 +55,19 @@
 
 ---
 
-### 💻 Most Used Languages
-<p align="left">
-  • HTML<br>
-  • Python<br>
-  • JavaScript<br>
-  • CSS
+---
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&langs_count=4&theme=radical"
+    height="160"
+  />
 </p>
+
+
+
 
  
 
