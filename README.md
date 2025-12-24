@@ -51,9 +51,10 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&langs_count=4&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&langs_count=4&theme=radical"
+  />
 </p>
-
 
 
  
