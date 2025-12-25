@@ -1,3 +1,10 @@
+<p align="right">
+  <a href="https://translate.google.com/translate?sl=en&tl=id&u=https://github.com/anovpad-code">
+    <img src="https://img.shields.io/badge/Translate_to-Indonesia-blue?style=flat-square&logo=google-translate&logoColor=white" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7E018&center=true&vCenter=true&width=700&lines=Hi,+I'm+Angelice+Novena+Octaviani;IT+Enthusiast+&+Python+Learner;ThinkPad+&+Samsung+User" alt="Typing SVG" />
 </p>
