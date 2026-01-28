@@ -1,50 +1,46 @@
   <div align="center">
 
-# 👋 Hi there, I'm Angelice Novena Octaviani
+# ⚡ Hello, I'm Angelice Novena Octaviani
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E018&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Python+Learner;ThinkPad+User;Samsung+User" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Information+Technology;Python+Developer;Linux+Enthusiast" alt="Typing SVG" />
 
 ---
 
-### 🛠️ My Tech Stack
-
-**Hardware & OS**
+### 🚀 Tools & Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/ThinkPad-E0212E?style=flat-square&logo=lenovo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows/Linux-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-ThinkPad-E0212E?style=for-the-badge&logo=lenovo&logoColor=white" />
 </p>
 
-**Programming & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 Github Productivity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=tokyonight&area=true&hide_border=true" width="850" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true" width="350" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=tokyonight&hide_border=true" width="850" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=transparent&fire=00D1FF&ring=00D1FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="755" />
 
 ---
 
-### 🌏 Visitors
-<img src="https://komarev.com/ghpvc/?username=anovpad-code&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" />
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=dracula&area=true&hide_border=true&color=00D1FF" width="100%" />
+
+<br/>
+
+`📈 Total Profile Views:`
+<img src="https://komarev.com/ghpvc/?username=anovpad-code&color=00D1FF&style=flat-square" />
 
 </div>
