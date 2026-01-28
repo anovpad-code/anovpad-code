@@ -1,14 +1,14 @@
-  <div align="center">
+<div align="center">
 
 # ⚡ Hello, I'm Angelice Novena Octaviani
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Information+Technology;Python+Developer;Linux+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Python+Developer;Computer+Science+Learner" alt="Typing SVG" />
 
 ---
 
 ### 🚀 Tools & Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/OS-Windows/Linux-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-IT_Enthusiast-00D1FF?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-ThinkPad-E0212E?style=for-the-badge&logo=lenovo&logoColor=white" />
 </p>
 
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 </p>
 
