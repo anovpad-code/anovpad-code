@@ -36,10 +36,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
