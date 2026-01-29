@@ -2,7 +2,7 @@
 
 # ⚡ Hello, I'm Angelice Novena Octaviani
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Python+Developer;Computer+Science+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Full-Stack+Developer;Computer+Science+Learner" alt="Typing SVG" />
 
 ---
 
