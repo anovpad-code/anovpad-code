@@ -6,7 +6,7 @@
 
 ---
 
-### 🌐 Technical Ecosystem
+###  Technical Ecosystem
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-IT_Enthusiast-00D1FF?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -20,33 +20,28 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
 ---
 
-### 📈 Engineering Metrics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anovpad-code&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true" />
-    </td>
-  </tr>
-</table>
+###  Engineering Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anovpad-code&theme=transparent&fire=00D1FF&ring=00D1FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&title_color=00D1FF&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="400" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&title_color=00D1FF&hide_border=true" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anovpad-code&theme=tokyonight&fire=00D1FF&ring=00D1FF&sideNums=00D1FF&stroke=00D1FF&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🌑 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=dracula&area=true&hide_border=true&color=00D1FF" width="100%" />
+###  Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=tokyonight&area=true&hide_border=true&color=00D1FF" width="100%" />
 
 <br/>
 
