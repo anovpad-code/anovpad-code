@@ -25,18 +25,14 @@
 
 ---
 
-### 📊 Github Productivity
+### 📊 GitHub Productivity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true&cache_seconds=1800" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=transparent&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=transparent&title_color=00D1FF&text_color=ffffff&hide_border=true" width="350" />
 
-  <br/>
+<br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anovpad-code&theme=transparent&fire=00D1FF&ring=00D1FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="755" />
-</div>
-
+<img src="https://streak-stats.demolab.com/?user=anovpad-code&theme=transparent&fire=00D1FF&ring=00D1FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="755" />
 
 ---
 
