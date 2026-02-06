@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SYSTEM: Angelice Novena Octaviani
+# Angelice Novena Octaviani
   
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=IT+Enthusiast;Full-Stack+Developer;ThinkPad+X+Series+User;Database+Management" alt="Typing SVG" />
 
