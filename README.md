@@ -27,7 +27,7 @@
 
 ---
 
-### 🌑 Activity Graph (Black Mode)
+### 🌑 Activity Graph (Pure Black Theme)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=tokyonight&area=true&hide_border=true&color=00D1FF" width="100%" />
 
 <br/>
