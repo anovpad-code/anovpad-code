@@ -5,14 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=IT+Enthusiast;Full-Stack+Developer;ThinkPad+X+Series+User;Database+Management" alt="Typing SVG" />
 
 ---
-### 📖 Biodata
-GitHub ini adalah ruang dokumentasi eksperimen dan eksplorasi saya dalam dunia pemrograman. Sebagai siswi jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)**, repositori di sini berisi tugas sekolah (terutama mapel **DASPRO** & **KKA**) serta proyek pribadi. 
 
-Saya masih dalam tahap belajar, jadi wajar jika isinya terlihat seperti milik pemula. Saya fokus pada:
-* **Koding & Kecerdasan Artifisial (KKA):** Mempelajari Software, Database MySQL, Robotika (**MicroPython pada ESP32**), dan konektivitas **IoT**.
-* **Dasar Program (DASPRO):** Pemahaman mendalam tentang perangkat keras (Hardware).
-* **Development:** Front-end (UI/UX fokus pada JS, HTML, CSS) & Back-end (Python).
+### 📖 Catatan 
+GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi dan eksplorasi saya mengenai Database MySQL, pengembangan front-end dan back-end, serta Robotika MicroPython ESP32.
 
+Wajar jika apabila GitHub ini berisi seperti milik seorang pemula, karena saya masih di tahap belajar, eksplorasi, dan eksperimen yaitu masih mencoba-coba sebuah codingan karena saya masih seorang pelajar.
 ---
 
 ### 🖥️ Technical Ecosystem
