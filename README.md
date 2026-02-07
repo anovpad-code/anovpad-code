@@ -27,6 +27,8 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 ### 🌟 Bernadette Angelice Novena Octaviani ' s Github Contributor Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anovpad-code&repo=proyek-mysql&theme=tokyonight&title_color=00D1FF&show_owner=true" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="450" />
 </p>
 
@@ -44,3 +46,4 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anovpad-code&color=00D1FF&style=flat-square&label=VISITOR+COUNT" alt="Visitor Count" />
 </p>
+
