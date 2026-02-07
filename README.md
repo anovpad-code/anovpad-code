@@ -7,8 +7,15 @@
 ---
 
 ### 📖 Catatan 
-GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi dan eksplorasi saya mengenai Database MySQL, pengembangan front-end dan back-end, serta Robotika MicroPython ESP32.
+---
+
+
+GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi serta eksplorasi saya mengenai Database MySQL, pengembangan front-end dan back-end, serta Robotika MicroPython ESP32.
+
 Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, bereksperimen, dan mencoba berbagai hal dalam dunia coding sebagai seorang pelajar.
+
+---
+
 ---
 
 ### 🖥️ Technical Ecosystem
