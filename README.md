@@ -33,6 +33,7 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&title_color=00D1FF&hide_border=true" width="450" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&cache_seconds=1800" width="450" />
 
 ---
 
