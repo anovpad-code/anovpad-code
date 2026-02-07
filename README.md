@@ -29,11 +29,10 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="450" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&title_color=00D1FF&hide_border=true" width="450" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&cache_seconds=1800" width="450" />
 
 ---
 
