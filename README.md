@@ -1,37 +1,47 @@
 # Angelice Novena Octaviani
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=IT+Enthusiast;Full-Stack+Developer;ThinkPad+X+Series+User;Database+Management" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=IT+Enthusiast;Full-Stack+Developer;ThinkPad+X+Series+User;Database+Management" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 📖 Catatan 
 ---
 
-GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi serta eksplorasi saya mengenai Database MySQL, pengembangan front-end dan back-end, serta Robotika MicroPython.
+GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi serta eksplorasi saya mengenai Database MySQL, pengembangan front-end and back-end, serta Robotika MicroPython.
 
 Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, bereksperimen, dan mencoba berbagai hal dalam dunia coding sebagai seorang pelajar.
 
 ---
 
-### 🖥️ Technical Ecosystem
+### 📊 Github Stats & Ecosystem
 
-| **Core Infrastructure** | **Technologies & Tools** |
-| :--- | :--- |
-| **Languages** | `Python`, `JavaScript`, `HTML5`, `CSS3`, `PHP`, `C#`, `C++` |
-| **Databases** | `MySQL`, `SQL Server` |
-| **Tools & Cloud** | `Git`, `GitHub`, `VS Code`, `WSL`, `Canva` |
-| **Environments** | `ThinkPad X Series`, `Windows`, `Ubuntu`, `Debian`, `Android` |
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🖥️ Technical Ecosystem</strong>
+      <br/><br/>
+      <table>
+        <tr><td><strong>Languages</strong></td><td><code>Python</code>, <code>JS</code>, <code>HTML5</code>, <code>CSS3</code>, <code>PHP</code></td></tr>
+        <tr><td><strong>Databases</strong></td><td><code>MySQL</code>, <code>SQL Server</code></td></tr>
+        <tr><td><strong>Tools</strong></td><td><code>Git</code>, <code>GitHub</code>, <code>VS Code</code></td></tr>
+        <tr><td><strong>Enviro</strong></td><td><code>ThinkPad X</code>, <code>Windows</code>, <code>Ubuntu</code></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="100%" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&title_color=00D1FF&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Github Stats
-
+### 🌟 Contributor Rankings
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&title_color=00D1FF&text_color=ffffff&icon_color=00D1FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" width="450" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&title_color=00D1FF&hide_border=true" width="450" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=anovpad-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="450" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anovpad-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
 </p>
 
 <p align="center">
