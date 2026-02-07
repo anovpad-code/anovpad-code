@@ -40,8 +40,9 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 ---
 
 ### 🌟 Contributor Rankings
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anovpad-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anovpad-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="450" />
 </p>
 
 <p align="center">
@@ -49,7 +50,6 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 </p>
 
 ---
-
 ### 🌑 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=dracula&area=true&hide_border=true&color=00D1FF" width="100%" />
 
