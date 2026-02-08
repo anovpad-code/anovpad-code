@@ -7,7 +7,6 @@
 ---
 
 ### 📖 Catatan 
----
 
 GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codingan eksperimen, dokumentasi belajar pribadi serta eksplorasi saya mengenai Database MySQL, pengembangan front-end dan back-end, serta Robotika MicroPython.
 
@@ -29,14 +28,15 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anovpad-code&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌟 Contributor Rankings
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anovpad-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="450" />
 </p>
@@ -48,6 +48,7 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 ---
 
 ### 🌑 Activity Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anovpad-code&theme=dracula&area=true&hide_border=true&color=00D1FF" width="100%" />
 
 <br/>
