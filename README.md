@@ -13,6 +13,8 @@ GitHub ini berisi repository tentang proyek/tugas codingan sekolah saya dan codi
 Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, bereksperimen, dan mencoba berbagai hal dalam dunia coding sebagai seorang pelajar.
 
 ---
+# game
+https://pewpew-game-html-novdev.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAPlyFpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafsqWgS2UJX2hqWyvuEqxmj5Sf-ahM3f0HGfnpxSS9qYbptCYzvS8CHd0pyTA_aem_fUDD9hazgzAcEzvyopImuA
 
 ### 🖥️ Technical Ecosystem
 
