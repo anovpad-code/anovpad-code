@@ -19,8 +19,8 @@ https://pewpew-game-html-novdev.netlify.app/?utm_source=ig&utm_medium=social&utm
 # Artikel Digital
 https://belajar-coding-pemula-8ph7xrf.gamma.site/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQALdJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafLngK6NgeK_T_VmJb5B6cFWPBGRUosCEdJVoQEQksGR93rBazMXR_dJ7r_4g_aem_3IrzvawlYk9I4BcLqvVUxQ
 
-# about me 
-https://novdev.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQAL6xleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeqfK0fB1KBFbeRpURT3HRLL69nFtU5UrU8POyMCDnwnkpPWelTDBCLuxIQhA_aem_lfp4nGbWm7nHETCvdBorfQ
+# About me
+https://gamma.app/docs/BIO-DIGITAL-ajmqhfjze28wqhp
 
 ### 🖥️ Technical Ecosystem
 
