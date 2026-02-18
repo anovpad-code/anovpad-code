@@ -16,6 +16,8 @@ Wajar jika GitHub ini terlihat seperti milik pemula, karena saya masih belajar, 
 # game
 https://pewpew-game-html-novdev.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAPlyFpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafsqWgS2UJX2hqWyvuEqxmj5Sf-ahM3f0HGfnpxSS9qYbptCYzvS8CHd0pyTA_aem_fUDD9hazgzAcEzvyopImuA
 
+https://flapping-bird-adventure.netlify.app/
+
 # Artikel Digital
 https://belajar-coding-pemula-8ph7xrf.gamma.site/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAQALdJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafLngK6NgeK_T_VmJb5B6cFWPBGRUosCEdJVoQEQksGR93rBazMXR_dJ7r_4g_aem_3IrzvawlYk9I4BcLqvVUxQ
 
