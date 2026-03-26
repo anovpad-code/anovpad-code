@@ -45,6 +45,11 @@ https://gamma.app/docs/BIO-DIGITAL-ajmqhfjze28wqhp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovpad-code&layout=compact&theme=tokyonight" />
 </p>
 
+### 🏆 Coddy Learning Achievements
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Completed-4_Badges-orange?style=for-the-badge&logo=coddy)
+![](https://img.shields.io/badge/Learning-Fundamentals-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Daily_Streak-2_Days-red?style=for-the-badge&logo=fire)
 
 ---
 
