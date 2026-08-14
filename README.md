@@ -1,18 +1,14 @@
   <div align="center">
 
-  <!-- Gambar Header Kartun -->
-  <img src="NAMA_FILE_GAMBAR_KAMU.png" width="100%" alt="Header Kartun">
-
-  <br><br>
-
-  <!-- Bagian Linux Logos -->
-  <h3>🐧 Linux Lover 🐧</h3>
+  <!-- Logo Kali Linux Besar -->
+  <img src="https://raw.githubusercontent.com/deic/kali-logos/master/kali-dragon-icon.svg" width="120" alt="Kali Linux">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img src="https://img.shields.io/badge/kali-268bd2?style=for-the-badge&logo=kali&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/linux-3776ab?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  <!-- Logo Linux Tux Besar -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="120" alt="Linux">
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <br><br>
-  <p><i>The penguins are taking over!</i> 🎀</p>
+  <!-- Logo Debian Besar -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="120" alt="Debian">
 
 </div>
